@@ -149,16 +149,17 @@ input[type='checkbox'] {
   font-weight: bold;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
   font-size: 1.17em;
+  text-transform: none;
   text-align: left;
 
   padding: 1rem;
 
   color: currentColor;
-  background: #ffffff;
+  background: none;
 
   cursor: pointer;
 
-  border-radius: 7px;
+  border-radius: 3px;
   transition: all 0.25s ease-out;
 }
 
@@ -202,7 +203,7 @@ input[type='checkbox'] {
 .collapsible-content .content-inner {
   background: rgba(250, 245, 227, .8);
   border-bottom: none;
-  border-bottom-left-radius: 7px;
-  border-bottom-right-radius: 7px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
   padding: .5rem 1rem;
 }
