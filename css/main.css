@@ -153,13 +153,13 @@ input[type='checkbox'] {
   text-align: left;
 
   padding: 1rem;
-
+  padding-left: 0px;
   color: currentColor;
   background: none;
 
   cursor: pointer;
 
-  border-radius: 3px;
+  border-radius: 0% 10% 10% 0%;
   transition: all 0.25s ease-out;
 }
 
@@ -203,7 +203,7 @@ input[type='checkbox'] {
 .collapsible-content .content-inner {
   background: rgba(250, 245, 227, .8);
   border-bottom: none;
-  border-bottom-left-radius: 3px;
-  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
   padding: .5rem 1rem;
 }
