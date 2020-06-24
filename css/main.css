@@ -24,9 +24,13 @@ a:hover {
 
 h1 {
     font-size: 2em;
-    text-align: center;
+    /*text-align: center;*/
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #304973;
+}
+
+h1 a:hover {
+    text-decoration: none;
 }
 
 h2 {
@@ -49,23 +53,23 @@ ul {
 }
 
 header {
-  background: #fffef7;
-  color: #304973;
+    margin: 0px;
+    background: #fcf7e3;
+    color: #304973;
 }
 
-/*
+
 header a {
   color: #304973;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+  text-decoration: none;
 }
-*/
 
-/*
+
 .nav {
-  font-size: 20px;
+  font-size: 18px;
 }
 
-*/
 
 .main_header {
   font-size: 35px;
