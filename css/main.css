@@ -39,7 +39,6 @@ a:hover {
 }
 
 h1 {
-    font-size: 2em;
     /*text-align: center;*/
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #304973;
@@ -50,7 +49,6 @@ h1 a:hover {
 }
 
 h2 {
-    font-size: 1.5em;
     color: #80AE6F;
     display: inline-block;
 }
@@ -111,6 +109,76 @@ ul {
     	display: none;
     }
 
+    /*RESPONSIVE*/
+    	.capsule{width: 800px;}
+    	.bottommatter{width: 700px;}
+    	.copyright{font-size: 16px;}
+    	.name{font-size: 68px;}
+    	nav a{font-size: 20px;}
+    	.bodytext{width: 83%;	}
+    	h1 {
+    		font-size: 36px;
+    		margin-top: 12px;
+    	}
+    	h2 {
+    		font-size: 24px;
+    		margin-top: 24px;
+    	}
+    	p, input, select, option	{
+    		font-size: 20px;
+    		margin-bottom: 12px;
+    	}
+    	ul	{font-size: calc(20px);}
+    /*Big screens*/
+    @media (max-width: 1500px) {
+    	.capsule{width: calc(1100px - 20vw);}
+    	.bottommatter{width: calc(1150px - 30vw);}
+    	.copyright{font-size: calc(22px - 0.4vw);}
+    	.name{font-size: calc(80px - 1.6vw);}
+    	nav a{font-size: calc(45px - 2vw);}
+    	.bodytext{width: calc(990px - 26vw);}
+    	h1 {
+    		font-size: calc(68px - 2.4vw);
+    		margin-top: calc(20px - 0.8vw);
+    		margin-bottom: calc(-30px + 1.6vw);
+    	}
+    	h2	{
+    		font-size: calc(38px - 1.2vw);
+    		margin-top: calc(45px - 1.6vw);
+    	}
+    	p, input, select, option	{
+    		font-size: calc(43px - 2vw);
+    		margin-bottom: calc(24px - 0.8vw);
+    	}
+    	ul	{font-size: calc(43px - 2vw);}
+    }
+    /*Small screens*/
+    @media (max-width: 1000px) {
+    	.capsule{width: 90vw;}
+    	.bottommatter{width: 85vw;}
+    	.copyright{font-size: 16px;}
+    	.name{font-size: 70px;}
+    	nav a{
+    		font-size: 25px;
+    		word-wrap: break-word;
+    		}
+    	.bodytext{width: 90%;}
+    	h1 {
+    		font-size: 40px;
+    		margin-top: 16px;
+    		margin-bottom: -16px;
+    	}
+    	h2	{
+    		font-size: 28px;
+    		margin-top: 30px;
+    		}
+    	p, input, select, option	{
+    		font-size: 25px;
+    		margin-bottom: 16px;
+    		}
+    	ul	{font-size: 25px;}
+    }
+/*
 header {
     background: #fcf7e3;
     color: #304973;
@@ -122,10 +190,10 @@ header a {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
   text-decoration: none;
 }
+*/
 
 
 nav {
-    font-size: 18px;
     text-align: center;
 	margin-left: auto;
 	margin-right: auto;
