@@ -1,4 +1,4 @@
-h1, h2, h3, h4, h5, h6, p, a, input, label, select {
+h1, h2, h3, h4, h5, h6, p, a, input, label, select, .lbl-toggle  {
 	font-variant-numeric: proportional-nums;
 	font-variant-numeric: oldstyle-nums;
 	font-variant-ligatures: common-ligatures;
@@ -10,10 +10,11 @@ h1, h2, h3, h4, h5, h6, p, a, input, label, select {
 body {
     /*-- margin: 60px auto;
     width: 70%; */
-    background-color: #fcf7e3;
+    background-color: #cae0e0;
     font-family: 'Lato', sans-serif;
 
 }
+
 
 body a {
     font-family:'Lato',sans-serif;
