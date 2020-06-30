@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6, p, a, input, label, select, .lbl-toggle  {
 body {
     /*-- margin: 60px auto;
     width: 70%; */
-    background-color: #cae0e0;
+    background-color: #dae8e8;
     font-family: 'Lato', sans-serif;
 
 }
@@ -38,7 +38,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #6C7B89;
+    color: #6b8399;
 }
 a:hover {
     text-decoration: none;
@@ -75,7 +75,6 @@ p {
 	}
 
 ul {
-    font-size: 1em;
     line-height: 1.2em;
     color: #333;
     padding = 1em
@@ -133,7 +132,7 @@ nav a{
 	padding-left: 1ex;
 	padding-right: 1ex;
 	display: inline-block;
-    color: #112D32;
+    color: #1e5b66;
 	}
 nav a:hover{
     color: #376773;
@@ -184,7 +183,7 @@ ul.posts li {
         margin-top: 24px;
     }
     p, input, select, option	{
-        font-size: 18px;
+        font-size: 16px;
         margin-bottom: 12px;
     }
     ul	{font-size: calc(18px);}
@@ -207,7 +206,7 @@ ul.posts li {
         margin-top: calc(45px - 1.6vw);
     }
     p, input, select, option{
-        font-size: calc(40px - 2vw);
+        font-size: calc(38px - 2vw);
         margin-bottom: calc(24px - 0.8vw);
     }
     ul	{font-size: calc(40px - 2vw);}
@@ -233,7 +232,7 @@ ul.posts li {
         margin-top: 30px;
         }
     p, input, select, option{
-        font-size: 23px;
+        font-size: 21px;
         margin-bottom: 16px;
         }
     ul	{font-size: 23px;}
@@ -346,11 +345,14 @@ input[type='checkbox'] {
   display: block;
   padding: 0px;
   padding-bottom: 0.8rem;
+  width: auto;
   background: none;
+  border: none;
   font-family: 'Lato', sans-serif;
   text-transform: none;
   text-align: left;
   margin-top: 5px;
+  margin-left: 0px;
   font-size: 23px;
   color: currentColor;
   line-height: 1.2em;
@@ -404,7 +406,7 @@ input[type='checkbox'] {
 }
 
 .collapsible-content .content-inner {
-  background: rgba(250, 245, 227, .8);
+  background: #dfeded;
   border-bottom: none;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
