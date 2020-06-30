@@ -1,8 +1,9 @@
-h1, h2, h3, h4, h5, h6, p, a, input, label, select {font-family: Libertine;
+h1, h2, h3, h4, h5, h6, p, a, input, label, select {
 	font-variant-numeric: proportional-nums;
 	font-variant-numeric: oldstyle-nums;
 	font-variant-ligatures: common-ligatures;
 	font-kerning: normal;
+    font-family: 'Merriweather', Helvetica, Arial, sans-serif;
 	hyphens: auto;
 	}
 
@@ -10,9 +11,13 @@ body {
     /*-- margin: 60px auto;
     width: 70%; */
     background-color: #fcf7e3;
+    font-family: 'Lato', sans-serif;
 
 }
 
+body a {
+    font-family:'Lato',sans-serif;
+}
 @media (min-width: 1000px) {
 	html{
 		margin-left: calc(100vw - 100%);
@@ -21,7 +26,7 @@ body {
 	}
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Merriweather', Helvetica, Arial, sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -35,21 +40,23 @@ a {
     color: #6C7B89;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: #7794a1;
 }
+
 
 h1 {
     /*text-align: center;*/
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #304973;
+    color: #112D32;
 }
 
-h1 a:hover {
+/*h1 a:hover {
     text-decoration: none;
-}
+}*/
 
 h2 {
-    color: #80AE6F;
+    color: #295661;
     display: inline-block;
 }
 
@@ -84,12 +91,14 @@ ul {
 .bottommatter{
     margin: auto;
     margin-top: 1ex;
+    padding-left: 1ex;
     background-color: white;
     box-shadow: 1px 1.5px 0 hsl(20, 6%, 80%);
     }
 
 
 .name {
+    font-family: 'Merriweather', Helvetica, Arial, sans-serif;
     text-align: center;
     font-weight: bold;
     margin-top: 40px;
