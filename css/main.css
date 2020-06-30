@@ -154,7 +154,7 @@ footer {
     font-size: .8em;
     margin: auto;
     margin-top: 1ex;
-    padding-left: 1ex;
+    padding: 2ex;
 }
 
 ul.posts {
@@ -343,14 +343,16 @@ input[type='checkbox'] {
 
 .lbl-toggle {
   display: block;
-  padding: 1rem;
+  padding: 0px;
+  padding-bottom: 0.8rem;
   background: none;
   font-family: 'Lato', sans-serif;
   text-transform: none;
   text-align: left;
-  margin-top: 8px;
+  margin-top: 5px;
   font-size: 23px;
   color: currentColor;
+  line-height: 1.2em;
   /*
   box-shadow: 0 1px 0 hsl(40, 0%, 96%);
   border-radius: 0% 10% 10% 0%;
@@ -359,9 +361,8 @@ input[type='checkbox'] {
   cursor: pointer;
   transition: all 0.25s ease-out;
 }
-	@media (max-width: 1500px){.lbl-toggle{font-size: calc(40px - 1.2vw)}}
+	@media (max-width: 1500px){.lbl-toggle{font-size: calc(40px - 2vw)}}
 	@media (max-width: 1000px){.lbl-toggle{font-size: 23px;}}
-
 
 
 .lbl-toggle:hover {
