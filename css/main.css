@@ -369,7 +369,7 @@ input[type='checkbox'] {
 
 
 .lbl-toggle:hover {
-  color: #faf5e3;
+  color: #8fcccc;
 }
 
 .lbl-toggle::before {
@@ -406,7 +406,7 @@ input[type='checkbox'] {
 }
 
 .collapsible-content .content-inner {
-  background: #dfeded;
+  background: #e6f7f7;
   border-bottom: none;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
