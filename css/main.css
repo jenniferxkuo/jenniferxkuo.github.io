@@ -247,6 +247,16 @@ ul.posts li {
   margin: auto;
 }
 
+.mySlides {
+  text-align: center;
+  height: 500px;
+}
+.mySlides img {
+  /*width: 100%;*/
+  max-height:100%;
+  object-fit: fill;
+}
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
