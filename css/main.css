@@ -242,8 +242,7 @@ ul.posts li {
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 75%;
-  max-height:500px;
+  max-width: 650px;
   position: relative;
   margin: auto;
 }
