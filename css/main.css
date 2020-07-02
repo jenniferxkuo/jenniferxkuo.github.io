@@ -258,7 +258,8 @@ ul.posts li {
   object-fit: contain;
   margin-left: auto;
   margin-right: auto;
-  width:400px%;
+  width:600px%;
+  vertical-align: bottom;
 }
 
 /* Next & previous buttons */
