@@ -247,11 +247,12 @@ ul.posts li {
   margin: auto;
 }
 
+/*
 .mySlides img {
-  /*width: 100%;*/
-  object-fit: contain;
+  object-fit: scale-down;
   margin:auto;
 }
+*/
 
 /* Next & previous buttons */
 .prev, .next {
