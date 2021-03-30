@@ -1,53 +1,15 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			<link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
-			<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+<html lang="en-us">
 
-			<title>Jennifer Kuo&thinsp;|&hairsp;Research</title>
-		</head>
-		<body>
-			<div class="capsule">
-			<header role="banner" class="topmatter">
-				<div class="name">
-					Jennifer Kuo
-				</div>
-				<nav>
-					<a href="/">home</a> |
-					<a href="/research" title="research">research</a> |
-					<a href="/cv" title="cv">CV</a> |
-					<a href="/about" title="about me">about me</a>
-				</nav>
-			</header>
+  {% include head.html %}
 
-			<!-- <header class="inner">
-  				<h1 class="main_header">
-				<a href="/" title="Home">Jennifer Kuo</a>
-  				</h1>
-  				<div class="nav">
-					<a href="/">home</a> /
-					<a href="/research" title="research">research</a> /
-					<a href="/cv" title="cv">CV</a>
-  				</div>
-			</header>
-			-->
+  <body>
 
+    {% include sidebar.html %}
 
+    <div class="content container">
+      {{ content }}
+    </div>
 
-			<div class="bodytext">
-
-			{{ content }}
-
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:jennifer.x.kuo@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/jenniferxkuo">github.com/jenniferxkuo</a></li>
-				</ul>
-				<br>
-			</footer>
-		</body>
-	</html>
+  </body>
+</html>
