@@ -50,7 +50,7 @@ body {
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.4;
 }
 @media (min-width: 38em) {
   html {
@@ -81,7 +81,7 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+  margin-bottom: .4rem;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
@@ -91,12 +91,12 @@ h1 {
   font-size: 2rem;
 }
 h2 {
-  margin-top: 1rem;
-  font-size: 1.5rem;
+  margin-top: 0.5rem;
+  font-size: 1.4rem;
 }
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
+  margin-top: 1rem;
+  font-size: 1.2rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
@@ -208,6 +208,11 @@ pre code {
   color: inherit;
   background-color: transparent;
   border-radius: 0;
+}
+
+.tab {
+    display: inline-block;
+    width: 150px; 
 }
 
 /* Quotes */
