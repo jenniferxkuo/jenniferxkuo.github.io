@@ -28,7 +28,7 @@ github:
 # Plug-ins
 plugins:
   - jekyll-feed
-  - jekyll/scholar
+#  - jekyll/scholar
  # - jekyll-sitemap
  # - jekyll-twitter-plugin
 
@@ -37,25 +37,25 @@ plugins:
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-scholar:
-#  style: apa
-  style: generic-style-rules-for-linguistics
-  sort_by: none
-  order: ascending
-
-  source: ./_bibliography
-  bibliography: papers.bib
-  bibliography_template: "{{ reference |
-  replace_first: 'Kuo, Jennifer', '<b>Kuo, Jennifer</b>' }}"
-
-  replace_strings: true
-  join_strings:    true
-
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  bibtex_filters:
-    - latex
-    - markdown
-  query: "@*"
+# scholar:
+# #  style: apa
+#   style: generic-style-rules-for-linguistics
+#   sort_by: none
+#   order: ascending
+#
+#   source: ./_bibliography
+#   bibliography: papers.bib
+#   bibliography_template: "{{ reference |
+#   replace_first: 'Kuo, Jennifer', '<b>Kuo, Jennifer</b>' }}"
+#
+#   replace_strings: true
+#   join_strings:    true
+#
+#   details_dir:    bibliography
+#   details_layout: bibtex.html
+#   details_link:   Details
+#
+#   bibtex_filters:
+#     - latex
+#     - markdown
+#   query: "@*"
