@@ -2,7 +2,7 @@
 title: Evidence for base-driven alternation in Tgdaya Seediq
 collection: publications
 category: unpublished
-permalink: /publication/2020-MA-thesis
+permalink: /publications/2020-MA-thesis
 paperurl: 'http://jenniferxkuo.github.io/files/ma-thesis.pdf'
 link: 'https://escholarship.org/uc/item/8gv0c68g'
 citation: 'Kuo, Jennifer. (2020). <i>Evidence for base-driven alternation in Tgdaya Seediq.</i> M.A. thesis. UCLA.'
