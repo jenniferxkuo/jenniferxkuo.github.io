@@ -1,5 +1,5 @@
 ---
-title: "Intro to General Phonetics (LING 103)"
+title: "Introduction to General Phonetics (LING 103)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-summer-teaching-103

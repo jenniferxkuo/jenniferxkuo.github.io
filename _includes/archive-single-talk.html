@@ -41,6 +41,15 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
+    {% if post.url and post.abstract %}
+      <a href="{{ base_path }}{{ post.url }}" class="btn">Details</a>
+    {% endif %}
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" class="btn--html"><div style="text-transform:uppercase;">{{post.type}}</div></a>
+    {% endif %}
+    {% if post.proceedings %}
+      <a href="{{ post.proceedings }}" class="btn--html">PROCEEDINGS</div></a>
+    {% endif %}
     <!-- {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.authors}}. "{{post.title}}." {{post.type}} presented {% if post.presenter %} by {{post.presenter}}{% endif %} at {{ post.venue }},  {{post.location}}. {% endif %} -->
 

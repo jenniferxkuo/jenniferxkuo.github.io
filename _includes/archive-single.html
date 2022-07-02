@@ -38,10 +38,10 @@
       {% endif %}
     </h2>
 
-    {% if post.read_time %}
+    <!-- {% if post.read_time %}
     {% elsif post.read_time and post.collection == 'posts' %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
+    {% endif %} -->
 
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
@@ -66,7 +66,6 @@
         <a href="{{ post.link }}" class="btn--html">HTML</a>
       {% endif %}
       {% if post.paperurl %}
-        <!-- <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> -->
         <a href="{{ post.paperurl }}" class="btn--html">PDF</a>
       {% endif %}
       {% if post.code %}

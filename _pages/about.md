@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome!"
-excerpt: "About me"
+excerpt: "Jennifer Kuo | Linguistics"
 author_profile: true
 redirect_from:
   - /about/
