@@ -76,7 +76,7 @@
 
     a {
       margin-bottom: 0.25em;
-      padding: 0.5em 1em;
+      padding: 0.4em 1em;
       font-family: $sans-serif;
       font-size: 15px;
       font-weight: bold;
@@ -182,10 +182,10 @@
   a {
     display: block;
     margin: 0 1rem;
-    padding: 0.5rem 0;
+    padding: 0.4rem 0;
     color: $masthead-link-color;
     text-decoration: none;
-
+    font-size: 18px;
     &:hover {
       color: $masthead-link-color-hover; //not the one
       text-decoration: none;
