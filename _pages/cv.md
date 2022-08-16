@@ -17,7 +17,7 @@ author_profile: true
      var adobeDCView = new AdobeDC.View({clientId: "8f59c97ef20e493dadf37f04ef395e87", divId: "adobe-dc-view"});
      adobeDCView.previewFile({
        content:{ location:
-         { url: "https://jenniferxkuo.github.io/files/CV_Aug2022.pdf"}},
+         { url: "https://documentcloud.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf"}},
        metaData:{fileName: "CV.pdf"}
      },
      {
