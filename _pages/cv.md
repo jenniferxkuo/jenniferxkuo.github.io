@@ -7,4 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Link &#8618;](http://jenniferxkuo.github.io/files/CV_Feb2022.pdf){: .btn--x-large}
+[Download Link &#8618;](http://jenniferxkuo.github.io/files/CV_Aug2022.pdf){: .btn--x-large}
+
+<embed src="http://jenniferxkuo.github.io/files/CV_Aug2022.pdf" width="500" height="375"
+ type="application/pdf">
