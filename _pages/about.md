@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD student in the Linguistics department at UCLA. I am primarily interested in the factors that drive paradigm reanalysis, and modeling the interaction of these factors. Languages I have worked on include Seediq, Malagasy, Maori, and Yongning Na.
+I am a 4th year PhD student in the Linguistics department at UCLA. I am primarily interested in the the representation of paradigms, and how looking at paradigm reanalysis over time can give us insight into this issue. Languages I have worked on include Seediq, Malagasy, Maori, and Yongning Na.
