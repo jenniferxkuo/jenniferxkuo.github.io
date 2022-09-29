@@ -7,20 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Manuscripts </h2>
-
-{% assign ms = site.publications | where: "category", "unpublished" %}
-{% for post in ms reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
 <h2>Publications </h2>
 {% assign pub = site.publications | where: "category", "published" %}
 {% for post in pub reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
+<h2>Manuscripts </h2>
+
+{% assign ms = site.publications | where: "category", "unpublished" %}
+{% for post in ms reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <h2>Selected presentations </h2>
 
