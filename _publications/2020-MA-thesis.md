@@ -1,7 +1,7 @@
 ---
 title: Evidence for base-driven alternation in Tgdaya Seediq
 collection: publications
-category: unpublished
+category: thesis
 permalink: /publications/2020-MA-thesis
 paperurl: 'http://jenniferxkuo.github.io/files/ma-thesis.pdf'
 link: 'https://escholarship.org/uc/item/8gv0c68g'
