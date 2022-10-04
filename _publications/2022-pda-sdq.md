@@ -2,7 +2,7 @@
 title: Evidence for prosodic correspondence in the vowel alternations of Tgdaya Seediq
 collection: publications
 category: published
-permalink: /publications/2022-pda-manuscript
+permalink: /publications/2022-pda-sdq
 paperurl: 'http://jenniferxkuo.github.io/files/seediq_prosodic_corr_manuscript_web.pdf'
 #link: ''
 citation: "[accepted] Kuo, Jennifer. &quot;Evidence for prosodic correspondence in the vowel alternations of Tgdaya Seediq.&quot; To appear in <i>Phonological Data and Analysis</i>."
