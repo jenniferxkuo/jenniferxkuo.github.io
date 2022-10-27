@@ -44,8 +44,14 @@
     {% if post.url and post.abstract %}
       <a href="{{ base_path }}{{ post.url }}" class="btn">Details</a>
     {% endif %}
-    {% if post.paperurl %}
-      <a href="{{ post.paperurl }}" class="btn--html"><div style="text-transform:uppercase;">{{post.type}}</div></a>
+    {% if post.paperurl and post.type=='Talk'%}
+      <a href="{{ post.paperurl }}" class="btn--html"><div style="text-transform:uppercase;">SLIDES</div></a>
+    {% endif %}
+    {% if post.paperurl and post.type=='Poster'%}
+      <a href="{{ post.paperurl }}" class="btn--html"><div style="text-transform:uppercase;">POSTER</div></a>
+    {% endif %}
+    {% if post.abstracturl %}
+      <a href="{{ post.abstracturl }}" class="btn--html"><div style="text-transform:uppercase;">ABSTRACT</div></a>
     {% endif %}
     {% if post.proceedings %}
       <a href="{{ post.proceedings }}" class="btn--html">PROCEEDINGS</div></a>
