@@ -4,7 +4,7 @@ collection: publications
 category: published
 permalink: /publications/2022-pda-sdq
 paperurl: 'http://jenniferxkuo.github.io/files/seediq_prosodic_corr_manuscript_web.pdf'
-#link: ''
+link: 'https://lingbuzz.net/lingbuzz/006938'
 citation: "[accepted] Kuo, Jennifer. &quot;Evidence for prosodic correspondence in the vowel alternations of Tgdaya Seediq.&quot; To appear in <i>Phonological Data and Analysis</i>."
 abstract: 'This paper brings new evidence for <b>prosodic correspondence</b>, where prosodic units (e.g. main-stressed
 nuclei and prominent syllables) of morphologically related forms are compared. Since prosodic correspondence was formalized in Crosswhite’s (1998) analysis of Chamorro, it has received almost no empirical discussion. I argue that Tgdaya Seediq (Austronesian, Atayalic) has vowel alternations which should be analyzed using prosodic correspondence. In Seediq, stem and suffixed forms tend to share the same stressed syllable nucleus. This <b>vowel matching</b> pattern cannot be explained as surface harmony, but it can be explained as the result of a constraint enforcing vowel identity of main-stressed nuclei in morphologically related forms. Unlike the categorical alternations analyzed by Crosswhite (1998), Seediq vowel
