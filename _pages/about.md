@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**Update**: I will be joining Cornell University as an Assitant Professor in Phonology this fall. 
+
 I am a 5th year PhD student in the Linguistics department at UCLA.
 
 I am primarily interested in the structure of paradigms, and how different learning biases affect the learning of paradigms. I address this question by looking at paradigm reanalysis over time, and how markedness effects and frequency-matching interact to influence the direction of reanalysis. In more recent work, I am supplementing these findings with experimental evidence from Artificial Grammar Learning experiments.
