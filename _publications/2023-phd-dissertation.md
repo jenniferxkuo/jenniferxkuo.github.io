@@ -1,11 +1,11 @@
 ---
-title: Phonological markedness efffects in reanalysis
+title: Phonological markedness effects in reanalysis
 collection: publications
 category: thesis
 permalink: /publications/2023-phd-dissertation
 paperurl: 'http://jenniferxkuo.github.io/files/2023-kuo-dissertation.pdf'
 link: 'https://www.proquest.com/docview/2832793521'
-citation: 'Kuo, Jennifer. (2023). <i>Phonological markedness efffects in reanalysis.</i> PhD dissertation. UCLA.'
+citation: 'Kuo, Jennifer. (2023). <i>Phonological markedness effects in reanalysis.</i> PhD dissertation. UCLA.'
 abstract: 'Paradigms with conflicting data patterns can be difficult to learn, resulting in acquisition error. In this dissertation, I look at how paradigms are reanalyzed over time to gain insight into the factors that influence morphophonological learning. Existing models of morphophonology (e.g. Hare & Elman 1995; Albright 2002b,a, 2010) predict reanalysis to be frequency-matching, occurring in a way that matches probabilistic distributions within the paradigm. I propose that in fact, reanalysis responds to two factors: both frequency-matching and a bias towards less marked outputs. Additionally, markedness effects in reanalysis are argued to be restricted to so-called ‘active’ markedness effects, which are already present in the language as stem phonotactics. <br>
 
 	I present three case studies, all from Austronesian languages, where reanalysis is arguably sensitive to a markedness bias, and confirm this by implementing a quantitative model of reanalysis. This model, outlined in Chapter 2, simulates the cumulative effect of reanalyses over time with an iterated learning paradigm. In each iteration, learning is modeled using Maximum Entropy Harmonic Grammar (MaxEnt; Smolensky 1986; Goldwater & Johnson 2003), with a markedness bias implemented as a Gaussian prior (Wilson 2006). <br>
