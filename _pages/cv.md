@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-[Download Link &#8618;](http://jenniferxkuo.github.io/files/CV_Jul2023.pdf){: .btn--x-large}
+[Download Link &#8618;](http://jenniferxkuo.github.io/files/CV_Sep2023.pdf){: .btn--x-large}
