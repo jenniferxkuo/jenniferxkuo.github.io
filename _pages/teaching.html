@@ -6,14 +6,9 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Instructor</h2>
 {% assign teacher = site.teaching | where: "category", "teaching" %}
 {% for post in teacher reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Teaching Assistant</h2>
-{% assign ta = site.teaching | where: "category", "TA" %}
-{% for post in ta reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+

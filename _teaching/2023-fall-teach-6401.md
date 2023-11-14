@@ -1,7 +1,7 @@
 ---
 title: "Phonology 1 (LING 4401/6401)"
 collection: teaching
-type: "Graduate course course"
+type: "Graduate course"
 permalink: /teaching/2023-fall-teach-6401
 venue: "Cornell University"
 category: "teaching"
