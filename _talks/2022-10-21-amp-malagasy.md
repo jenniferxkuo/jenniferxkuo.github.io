@@ -8,4 +8,5 @@ authors: 'Kuo, Jennifer'
 venue: "Annual Meeting on Phonology (AMP)"
 date: 2022-10-21
 location: "UCLA, Los Angeles, California, USA"
+ftype: 'poster'
 ---

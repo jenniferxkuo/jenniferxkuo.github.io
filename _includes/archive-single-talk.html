@@ -44,10 +44,10 @@
     {% if post.url and post.abstract %}
       <a href="{{ base_path }}{{ post.url }}" class="btn">Details</a>
     {% endif %}
-    {% if post.paperurl and post.type=='Talk'%}
+    {% if post.paperurl and post.ftype=='slides'%}
       <a href="{{ post.paperurl }}" class="btn--html"><div style="text-transform:uppercase;">SLIDES</div></a>
     {% endif %}
-    {% if post.paperurl and post.type=='Poster'%}
+    {% if post.paperurl and post.ftype=='poster'%}
       <a href="{{ post.paperurl }}" class="btn--html"><div style="text-transform:uppercase;">POSTER</div></a>
     {% endif %}
     {% if post.abstracturl %}

@@ -4,6 +4,7 @@ collection: talks
 type: "Invited talk (Homecoming Lecture)"
 permalink: /talks/2023-10-17-dartmouth-seediq
 paperurl: 'http://jenniferxkuo.github.io/files/talks/2023-1018-kuo-dartmouth-selected.pdf'
+ftype: 'slides'
 authors: 'Kuo, Jennifer'
 venue: "Dartmouth College"
 date: 2023-10-17
