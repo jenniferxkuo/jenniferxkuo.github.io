@@ -1,9 +1,9 @@
 ---
-title: Evidence for base-driven alternation in Tgdaya Seediq
+title: Phonetic naturalness in the reanalysis of Samoan thematic consonant alternations
 collection: publications
 category: unpublished
 permalink: /publications/2023-samoan-reanalysis-manuscript
 paperurl: 'http://jenniferxkuo.github.io/files/samoan_reanalysis_2023_ms.pdf'
-citation: 'Kuo, Jennifer. (in prep). &quot;{Markedness bias in the reanalysis of Samoan thematic consonant alternations.&quot;'
+citation: 'Kuo, Jennifer. (in prep). &quot;Phonetic naturalness in the reanalysis of Samoan thematic consonant alternations.&quot;'
 abstract: 'Paradigms with conflicting data patterns can be difficult to learn, resulting in a type of language change called reanalysis. Existing models of morphophonology predict reanalysis to occur in a way that matches frequency distributions within the paradigm. Using evidence from Samoan, this paper argues that instead, reanalysis is sensitive to both frequency and the reduction of markedness. More concretely, I find that reanalysis of Samoan thematic consonants is generally towards the historically more frequent alternants (in line with a frequency-matching approach), but is also modulated by OCP-place effects. These results are confirmed in an iterated learning model that is based in MaxEnt (Goldwater and Johnson, 2003). Additionally, I propose that markedness effects must be i) already active in stem phonotactics (<i>active markedness</i> restriction), and ii) phonetically motivated (<i>phonetic naturalness</i> restriction). The Samoan data is compatible with these restrictions; OCP-place is active in Samoan stem phonotactics, supporting the active markedness restriction. Additionally, in a study where phonetic similarity is measured as the spectral distance between two phones, I find that similarity of consonants is closely correlated with the strength of OCP-place effects in Samoan; this suggests that OCP-place is rooted in phonetic similarity avoidance, supporting the phonetic naturalness restriction.'
 ---
