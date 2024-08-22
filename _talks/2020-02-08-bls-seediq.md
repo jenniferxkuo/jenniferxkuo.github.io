@@ -7,6 +7,6 @@ venue: "Berkeley Linguistics Society"
 date: 2020-02-08
 location: "UC Berkeley, California"
 authors: "Kuo, Jennifer"
-paperurl: 'http://jenniferxkuo.github.io/files/talks/bls_2020_seediq.pdf'
+paperurl: 'http://jenniferxkuo.github.io/files/presentations/bls_2020_seediq.pdf'
 ftype: "poster"
 ---

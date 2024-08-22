@@ -3,7 +3,7 @@ title: "Comparing k-means and OPTICS clustering algorithms for identifying vowel
 collection: talks
 type: "Talk"
 permalink: /talks/2023-1-5-lsa-vowels
-abstracturl: 'http://jenniferxkuo.github.io/files/grabowski_kuo_PLSA_2023_vowels.pdf'
+abstracturl: 'http://jenniferxkuo.github.io/files/presentations/grabowski_kuo_PLSA_2023_vowels.pdf'
 authors: 'Grabowski, Emily and <b>Kuo, Jennifer</b>'
 venue: "LSA 2023"
 date: 2023-1-5
